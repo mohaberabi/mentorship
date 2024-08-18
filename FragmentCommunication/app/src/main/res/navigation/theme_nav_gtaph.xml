@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/theme_nav_gtaph"
+    app:startDestination="@id/themeChangerFragment">
+
+    <fragment
+        android:id="@+id/themeChangerFragment"
+        android:name="com.mohaberabi.fragmentcommunication.usingactivity.ThemeChangerFragment"
+        android:label="fragment_theme_changer"
+        tools:layout="@layout/fragment_theme_changer">
+        <action
+            android:id="@+id/action_themeChangerFragment_to_themeShowerFragment"
+            app:destination="@id/themeShowerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/themeShowerFragment"
+        android:name="com.mohaberabi.fragmentcommunication.ThemeShowerFragment"
+        android:label="fragment_theme_shower"
+        tools:layout="@layout/fragment_theme_shower" />
+</navigation>

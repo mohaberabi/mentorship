@@ -1,0 +1,13 @@
+#Thu Aug 15 15:17:51 EEST 2024
+base.0=/Users/mohaberabi/Downloads/weakness-point-app/core/designsystem/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/mohaberabi/Downloads/weakness-point-app/core/designsystem/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/7/classes.dex
+base.2=/Users/mohaberabi/Downloads/weakness-point-app/core/designsystem/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.3=/Users/mohaberabi/Downloads/weakness-point-app/core/designsystem/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes2.dex
+path.0=classes.dex
+path.1=7/classes.dex
+path.2=0/classes.dex
+path.3=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

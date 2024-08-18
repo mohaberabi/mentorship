@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="KurrencyKonvertor.app" target="17" />
+      <module name="KurrencyKonvertor.core.common" target="17" />
+      <module name="KurrencyKonvertor.core.data" target="17" />
+      <module name="KurrencyKonvertor.core.database" target="17" />
+      <module name="KurrencyKonvertor.core.designsystem" target="17" />
+      <module name="KurrencyKonvertor.core.network" target="17" />
+      <module name="KurrencyKonvertor.core.ui" target="17" />
+      <module name="KurrencyKonvertor.feature.listing" target="17" />
+      <module name="KurrencyKonvertor.listing" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

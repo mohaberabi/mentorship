@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml:2:13-83
+INJECTED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml:2:13-83
+	package
+		INJECTED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml
+	xmlns:android
+		ADDED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml:2:23-81
+uses-sdk
+INJECTED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml reason: use-sdk injection requested
+INJECTED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml
+INJECTED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohaberabi/android-mentorship/weakness-point-app/core/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest265008110813160775.xml

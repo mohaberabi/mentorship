@@ -1,0 +1,8 @@
+com.mohaberabi.feature.listing
+drawable exchange
+string amount
+string converted_amount
+string currency_convertor
+string currency_convertor_description
+string indicative_exhange_rate
+string something_went_wrong
